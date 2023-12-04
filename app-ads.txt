@@ -174,3 +174,5 @@ webeyemob.com, 70097, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 Xapads.com, 155860, RESELLER
+adsyield.com, 1233, RESELLER
+onetag.com, 7d9af0b85b5070e, RESELLER
